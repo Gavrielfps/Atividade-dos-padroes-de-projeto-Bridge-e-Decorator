@@ -1,1 +1,1 @@
-# Atividade-dos-padr-es-de-projeto-Bridge-e-Decorator
+# Atividade-dos-padroes-de-projeto-Bridge-e-Decorator
